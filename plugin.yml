@@ -1,0 +1,4 @@
+name: testplugin
+main: testplugin\testplugin
+version: 2.6.4
+api: 1.17.0
